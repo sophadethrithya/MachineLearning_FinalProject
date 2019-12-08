@@ -1,0 +1,2 @@
+# MachineLearning_FinalProject
+Hair segmentation improvement
